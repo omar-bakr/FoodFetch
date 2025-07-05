@@ -1,0 +1,51 @@
+{
+  "restaurants": [
+    {
+      "name": "DOOS",
+      "menu": {
+        "Fool Sandwiches": {
+          "Fool Original": 18.95,
+          "Fool Alexandrian Style Hot": 23.95,
+          "Fool Olive Oil": 23.95,
+          "Fool Butter": 23.95,
+          "Fool Spicy Oil": 23.95,
+          "Fool Pickled Lemon": 23.95,
+          "Fool Hummus": 27.95
+        },
+        "Falafel Sandwiches": {
+          "Falafel Original": 22.95,
+          "Falafel Crunch": 22.95,
+          "Falafel Alexandrian Style Hot": 25.95,
+          "Falafel Pickled Lemon": 26.95,
+          "Falafel Hummus": 30.95,
+          "Falafel Labneh": 49.95
+        },
+        "Fries Sandwiches": {
+          "Original Fries": 38.95,
+          "Original Cheese Fries": 51.95,
+          "Original Labneh Fries": 63.95
+        },
+        "Egg Sandwiches": {
+          "Boiled Egg": 41.95,
+          "Plain Omelette": 42.95,
+          "Omelette Vegedables": 47.95,
+          "Omelette American Cheese": 57.95,
+          "Omelette Mix Cheese": 57.95,
+          "Omelette Pastrami": 58.95,
+          "Omelette Kiri": 67.95
+        },
+        "Cheese Sandwiches": {
+          "Cottage Cheese": 33.95,
+          "Original White Cheese": 47.95,
+          "Grilled Halloumi": 91.95
+        },
+        "Halawa & Eshta": {
+          "Halawa Eshta - Shami": 47.95,
+          "Halawa Eshta & Honey - Shami": 53.95,
+          "Eshta & Honey - Shami": 53.95,
+          "Halawa & Honey - Shami": 53.95
+        }
+      }
+    }
+  ]
+}
