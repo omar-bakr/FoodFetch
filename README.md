@@ -51,7 +51,7 @@ src/main/java/com/omarbakr/foodfetch/
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/foodfetch.git
-cd foodfetch
+cd FoodFetch
 ```
 
 ### 2. Build and Run
